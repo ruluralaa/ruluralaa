@@ -5,7 +5,7 @@
 -->
 
 ## 기술 스택 ⚙️
-- **프로그래밍 언어**: Python, html, css, JavaScript, TypeScript, Dart
+- **프로그래밍 언어**: Python, HTML, CSS, JavaScript, TypeScript, Dart
 - **웹 프레임워크**: React, Next.js, Flutter
 - **기타 도구**: Git, Slack, Figma
 
