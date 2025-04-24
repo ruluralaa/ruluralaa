@@ -19,9 +19,6 @@
 - **웹 프레임워크**: React, Next.js, Flutter
 - **기타 도구**: Git, Slack, Figma
 
-## 저는 현재..🔭
-신한투자증권 프로디지털아카데미 6기에서 풀스택 개발을 공부중입니다
-
 ## 연락방법 💬
 - [Email](bsy0302@naver.com)
 
