@@ -23,8 +23,8 @@
 | -------------------------------------------- | -------------- | ----------- |
 |  [문제톡톡](https://github.com/QuestionTokTok/QuizTokTok-App): GPT기반 복습용 문제 생성 서비스   | 기획, Figma 화면설계, Frontend 개발(Flutter), 프롬프트엔지니어링| 2023.06 - 2024.06   | 
 |  [한끼톡톡](https://github.com/MealTokTok/MealTokTok-App): 반찬 배달 서비스   | 시장조사, 설문조사, Frontend 개발(Flutter) | 2024.03 - 2025.02 | 
-|  [cercat](https://github.com/COS-project/cos-frontend): 자격증 공부 보조 서비스   | Frontend 개발(Typescript, Next.js, TailwindCSS) | 2024.01 - 2024.11 | 
-|  [core](https://github.com/cbnu-core-project/front): 교내 동아리 관리 서비스  |  Frontend 개발(React, TailsindCSS) | 2022.08 - 2023.02 | 
+|  [CERCAT](https://github.com/COS-project/cos-frontend): 자격증 공부 보조 서비스   | Frontend 개발(Typescript, Next.js, TailwindCSS) | 2024.01 - 2024.11 | 
+|  [CORE](https://github.com/cbnu-core-project/front): 교내 동아리 관리 서비스  |  Frontend 개발(React, TailsindCSS) | 2022.08 - 2023.02 | 
 
 ## 경험
 - 신한투자증권 프로디지털 아카데미 6기, 2025.04 - 진행중
