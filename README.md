@@ -5,9 +5,28 @@
 개발을 통해 세상에 긍정적인 영향을 미칠 수 있는 솔루션을 만드는 것을 목표로 하고 있습니다.
 
 ## 기술 스택 ⚙️
-- **프로그래밍 언어**: Python, HTML, CSS, JavaScript, TypeScript, Dart
-- **웹 프레임워크**: React, Next.js, Flutter
-- **기타 도구**: Git, Slack, Figma
+- **프로그래밍 언어**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+- **웹 프레임워크**: ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+- **기타 도구**: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
+## 코딩 동아리 활동
+| 활동명                                        |활동 내용        |활동 기간  | 활동 사진                |
+| -------------------------------------------- | -------------- | ------ | -------------------- |
+|     |  |  |  |
+|     |  |  |  |
+|     |  |  |  |
+
+=======
 
 ## 프로젝트
 문제톡톡: GPT기반 복습용 문제 생성 서비스 - Frontend Developer, 2024
