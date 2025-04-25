@@ -3,7 +3,7 @@
 
 개발을 통해 세상에 긍정적인 영향을 미칠 수 있는 솔루션을 만드는 것을 목표로 하고 있습니다.
 
-## 기술 스택 ⚙️
+## 기술 ⚙️
 - **프로그래밍 언어**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
