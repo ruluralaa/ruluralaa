@@ -26,10 +26,10 @@
 - GTQ 1급 (2020.11)
 
 ## 블로그📝
-- [My Blog](https://blog.naver.com/bsy0302)
+- https://blog.naver.com/bsy0302
 
 ## 연락방법 💬
-- [📧](bsy0302@naver.com)
+- bsy0302@naver.com
 
 ## 나의 관심사 🎨
 - 새로운 공간 탐방🚶
