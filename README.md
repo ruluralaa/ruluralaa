@@ -9,9 +9,11 @@
 ## 프로젝트 🖥️
 | 프로젝트명                                        | 내용        | 기간       |                
 | -------------------------------------------- | -------------- | ----------- |
-|  [문제톡톡](https://github.com/QuestionTokTok/QuizTokTok-App): GPT기반 복습용 문제 생성 서비스   | 기획, Figma 화면설계, Frontend 개발(Flutter), 프롬프트엔지니어링| 2023.06 - 2024.06   | 
+|  [기록해sol]: 계좌연동 매매일지 서비스 | 데이터베이스 설계, 매매일지 Backend(FastAPI), 커뮤니티 Frontend(Typescript, Next.js, TailwindCSS) | 2025.06 - 2025.07 | 
+|  [템보따리]: 그룹기반 추천템 공유 서비스 | 그룹 가입 Frontend(Typescript, Next.js, TailwindCSS) | 2025.05 - 2025.05 | 
 |  [한끼톡톡](https://github.com/MealTokTok/MealTokTok-App): 반찬 배달 서비스   | 시장조사, 설문조사, Frontend 개발(Flutter) | 2024.03 - 2025.02 | 
 |  [CERCAT](https://github.com/COS-project/cos-frontend): 자격증 공부 보조 서비스   | Frontend 개발(Typescript, Next.js, TailwindCSS) | 2024.01 - 2024.11 | 
+|  [문제톡톡](https://github.com/QuestionTokTok/QuizTokTok-App): GPT기반 복습용 문제 생성 서비스   | 기획, Figma 화면설계, Frontend 개발(Flutter), 프롬프트엔지니어링| 2023.06 - 2024.06   | 
 |  [CORE](https://github.com/cbnu-core-project/front): 교내 동아리 관리 서비스  |  Frontend 개발(React, TailsindCSS) | 2022.08 - 2023.02 | 
 
 ## 경험 ⭐
@@ -21,6 +23,7 @@
 - 총학생회(도약) 복지부, 2020.03 - 2021.02
 
 ## 자격증 🪪
+- ADsP (2025.09)
 - SQLD (2025.04)
 - 정보처리기사 (2024.09)
 - GTQ 1급 (2020.11)
@@ -32,7 +35,7 @@
 - bsy0302@naver.com
 
 ## 나의 관심사 🎨
-- 새로운 공간 탐방🚶
+- 헬스🏋️‍♂️
 - 탁구🏓
 - 수영🏊
 
